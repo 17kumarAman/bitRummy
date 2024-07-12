@@ -5,7 +5,7 @@
     <Footer />
     <div
       id="cursor-circle"
-      class="fixed w-16 h-16 border border-yellow-300 rounded-full pointer-events-none transform -translate-x-1/2 -translate-y-1/2 hidden"
+      class="fixed w-16 h-16 md:flex border border-yellow-300 rounded-full pointer-events-none transform -translate-x-1/2 -translate-y-1/2 hidden"
     ></div>
   </div>
 </template>
